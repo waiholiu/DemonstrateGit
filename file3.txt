@@ -1,1 +1,3 @@
 My brand new feature!
+
+My main change for conflict 1
